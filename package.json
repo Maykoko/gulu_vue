@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Maykoko/gulu_vue/issues"
   },
-  "homepage": "https://github.com/Maykoko/gulu_vue#readme"
+  "homepage": "https://github.com/Maykoko/gulu_vue#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
