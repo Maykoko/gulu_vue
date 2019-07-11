@@ -1,0 +1,23 @@
+{
+  "name": "gulu_vue",
+  "version": "1.0.0",
+  "description": "这是一个UI框架， 没有入口，都是独立",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maykoko/gulu_vue.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "meimei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maykoko/gulu_vue/issues"
+  },
+  "homepage": "https://github.com/Maykoko/gulu_vue#readme"
+}
